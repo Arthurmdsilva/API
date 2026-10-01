@@ -32,9 +32,9 @@
 
 ---
 
-## Prioridade sugerida (ordem de execução restante)
+## Ordem De Prioridade Que Estamos Seguindo(ordem de execução restante)
 
-1. **US 12** — Vídeo de entendimento do problema (Sprint 2)
+1. **US 12** — Vídeo de entendimento do problema (Sprint 1)
 2. **US 4** — Filtros interativos
 3. **US 5** — Cruzamento PRF × DATASUS (parte pendente)
 4. **US 6** — Padrões de localização e descanso
