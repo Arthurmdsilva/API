@@ -41,6 +41,6 @@
 5. **US 7** — Análise temporal
 6. **US 8** — Interface e navegação
 7. **US 9** — Responsividade
-8. **US 11** — Relatório do projeto
+8. **US 11** — Relatório do projeto(cada Sprint)
 9. **US 13** — Vídeo final de apresentação
 10. **US 10** — Documentação e entrega final
